@@ -5,7 +5,7 @@ class App < Sinatra::Base
     
   end
   
-  get 'route' do
+  get 'hometown' do
     
   end 
   
